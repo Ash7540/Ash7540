@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ashwinachavan1902/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="ashwin_chavan" target="_blank">
+  <a href="https://discordapp.com/users/950810202100359219" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.hackerrank.com/ashchavan7540" target="_blank">
@@ -65,6 +65,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+[![Ashwin's github stats](https://github-readme-stats.vercel.app/api?username=Ash7540&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Ash7540?tab=repositories)
 
 ###
 
