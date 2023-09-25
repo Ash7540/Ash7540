@@ -68,10 +68,6 @@
 
 ###
 
-[![Ashwin's github stats](https://github-readme-stats.vercel.app/api?username=Ash7540&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/Ash7540?tab=repositories)
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
