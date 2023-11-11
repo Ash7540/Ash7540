@@ -64,7 +64,7 @@
 
 ###
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ash7540&count_private=true&theme=tokyonight&showicons=true)]()
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ash7540&count_private=true&theme=tokyonight&showicons=true)]() -->
 
 <h3 align="left">🔥   My Stats :</h3>
 
