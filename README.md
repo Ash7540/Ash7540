@@ -64,8 +64,6 @@
 
 ###
 
-[!Ashwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash7540)](https://github.com/Ash7540/github-readme-stats)
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
