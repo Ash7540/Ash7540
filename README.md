@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ashwin Chavan from India<br><br>✨ Creating projects since 2022<br>📚 I'm currently learning M-Tech Computer<br>🎯 Goals: To Learn and Help<br>👀 I’m interested in Artificial Intelligence</p>
+<p align="left">I'm Ashwin Chavan from India<br><br>✨ Creating projects since 2022<br>📚 I'm currently learning M-Tech Computer<br>🎯 Goals: To Learn and Help<br>👀 I’m Machine Learning Engineer</p>
 
 ###
 
