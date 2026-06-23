@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;100%2B+Projects+Completed;M.Tech+Computer+Science;MBA+Analytics+%26+Data+Science;Game+Developer;Author+and+Story+Writer;AI+Researcher;Cloud+Computing+Enthusiast)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Machine+Learning+Engineer;100%2B+Projects+Completed;BE+in+Computer+Engineering;M.Tech+in+Computer+Engineering;MBA+Analytics+%26+Data+Science;Game+Developer;Author+and+Story+Writer;AI+Researcher;Cloud+Computing+Enthusiast;Building+Intelligent+Solutions)
 
 </div>
 
@@ -30,17 +30,19 @@
 
 ## 👨‍💻 About Me
 
-- 🇮🇳 From India
-- 🚀 Building innovative solutions since 2022
+I'm Ashwin Chavan from India 🇮🇳
+
+- 🚀 Developed **100+ Projects** across AI, Data Science, Cloud Computing, Web Development and Game Development
 - 🤖 Machine Learning Engineer
 - 🎮 Indie Game Developer
 - ✍️ Author and Story Writer
-- 🎓 Pursuing M.Tech in Computer Science
+- 🎓 BE in Computer Engineering
+- 🎓 M.Tech in Computer Engineering
 - 📊 Pursuing MBA in Analytics and Data Science
 - 🔬 Researching Multimodal Clinical AI and Uncertainty Quantification
-- ☁️ Passionate about Artificial Intelligence, Data Science and Cloud Computing
-- 🌱 Constantly learning emerging technologies
-- 🎯 Mission: Build intelligent systems that solve real-world problems
+- ☁️ Passionate about Artificial Intelligence, Machine Learning, Data Science and Cloud Technologies
+- 🌱 Always learning new technologies and building innovative solutions
+- 🎯 Goal: Create impactful products that solve real-world problems
 
 ---
 
@@ -51,18 +53,19 @@
 | Achievement | Details |
 |------------|---------|
 | 🚀 Projects | 100+ Completed |
-| 🤖 AI & ML | Multiple End-to-End Solutions |
-| 🎮 Games | Published Indie Projects |
-| ☁️ Cloud | Google Cloud Platform |
-| 🎓 Education | M.Tech + MBA |
-| 🔬 Research | Clinical AI |
+| 🤖 AI & ML | Machine Learning Engineer |
+| 🎮 Games | Indie Game Developer |
 | ✍️ Writing | Author & Story Writer |
+| 🎓 Education | BE + M.Tech Computer Engineering |
+| 📊 Management | MBA Analytics & Data Science |
+| 🔬 Research | Multimodal Clinical AI |
+| ☁️ Cloud | Google Cloud Platform |
 
 </div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -74,40 +77,46 @@
 
 ## 🎯 Current Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Data Science
-- Multimodal Clinical AI
-- Computer Vision
-- Cloud Computing
-- Full Stack Development
-- Game Development
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Analytics & Data Science
+- 🔬 Multimodal Clinical AI
+- 👁️ Computer Vision
+- ☁️ Cloud Computing
+- 🌐 Full Stack Development
+- 🎮 Game Development
+- 📈 Business Intelligence
 
 ---
 
 ## 🎮 Game Development
 
-I enjoy creating indie games, experimental projects and interactive experiences.
+I enjoy creating indie games, interactive experiences and experimental projects.
 
-### 🎯 Portfolio
+### 🎯 Game Portfolio
+
+<div align="center">
 
 <a href="https://ashu96k.itch.io/" target="_blank">
-<img src="https://img.shields.io/badge/View_My_Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_My_Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
 </a>
+
+</div>
 
 ---
 
 ## ✍️ Author
 
-Alongside development and research, I write stories exploring:
+Beyond coding and research, I enjoy writing stories focused on:
 
 - Friendship
-- Personal Growth
+- Growth
 - Family Bonds
+- Life Experiences
 - Relationships
 - Resilience
-- Life Experiences
+
+Writing allows me to combine creativity with storytelling while technology helps me build practical solutions.
 
 ---
 
@@ -115,9 +124,9 @@ Alongside development and research, I write stories exploring:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ash7540&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ash7540&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7540&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7540&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -148,10 +157,23 @@ Alongside development and research, I write stories exploring:
 - Cloud Architecture
 - MLOps
 - Scalable AI Systems
+- Product Strategy
 
 ---
 
-## 📫 Connect With Me
+## 📚 Research Interests
+
+- Multimodal Clinical AI
+- Uncertainty Quantification
+- Conformal Prediction
+- Healthcare AI
+- Computer Vision
+- Deep Learning
+- Explainable AI
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -175,7 +197,7 @@ Alongside development and research, I write stories exploring:
 
 ### 💡 Code • Create • Research • Innovate
 
-*"Technology is most powerful when it helps people and inspires creativity."*
+*"Transforming ideas into intelligent solutions and meaningful experiences."*
 
 ⭐ Thanks for visiting my profile!
 
