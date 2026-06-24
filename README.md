@@ -118,33 +118,7 @@ Beyond coding and research, I enjoy writing stories focused on:
 
 Writing allows me to combine creativity with storytelling while technology helps me build practical solutions.
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ash7540&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash7540&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ash7540&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ash7540&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
